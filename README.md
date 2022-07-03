@@ -1,4 +1,4 @@
-<h1 aling ="center"><strong>Hi 👋, I'm Tirthraj.</strong></h1> 
+<h1 type="bold" align="center">Hi 👋, I'm Tirthraj.</h1> 
 <ul>
 <li>I write code sometimes</li>
 <li>Currently i'm Learning Web Development</li>
